@@ -1,0 +1,18 @@
+This file details the included third-party components, the license they are
+used under and links to their web sites where further license information may
+be available.
+Where appropreate the locations of specific library files are also listed.
+
+jsch
+BSD style license.
+http://www.jcraft.com/jsch
+Note: custom build using more recent compiler for better Android compatability.
+Included files:
+    com.vaguehope.kuniko/libs/jsch-0.1.44.jar
+
+jgit
+Eclipse Distribution License v1.0.
+http://www.eclipse.org/jgit
+Included files:
+    com.vaguehope.kuniko/libs/org.eclipse.jgit-1.1.0.201109151100-r.jar
+

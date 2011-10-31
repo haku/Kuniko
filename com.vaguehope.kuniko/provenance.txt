@@ -1,0 +1,2 @@
+d8f4386181fe88fbb15c67295630cfcc org.eclipse.jgit-1.1.0.201109151100-r.jar http://download.eclipse.org/jgit/maven/org/eclipse/jgit/org.eclipse.jgit/1.1.0.201109151100-r/org.eclipse.jgit-1.1.0.201109151100-r.jar
+dce6c40d48b2f54cd4991862a69457f7 jsch-0.1.44.jar <custom build with Java 1.6 compiler>
